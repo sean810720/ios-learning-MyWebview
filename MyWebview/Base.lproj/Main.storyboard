@@ -24,7 +24,7 @@
                                     <action selector="backButton:" destination="BYZ-38-t0r" id="bey-1E-wKd"/>
                                 </connections>
                             </barButtonItem>
-                            <barButtonItem title="重整" image="goforward" catalog="system" id="IMm-Mv-PxG">
+                            <barButtonItem title="重整" image="arrow.2.circlepath" catalog="system" id="IMm-Mv-PxG">
                                 <connections>
                                     <action selector="reloadButton:" destination="BYZ-38-t0r" id="NbW-Fp-A7L"/>
                                 </connections>
@@ -56,7 +56,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="arrow.2.circlepath" catalog="system" width="64" height="50"/>
         <image name="arrowshape.turn.up.left.fill" catalog="system" width="64" height="52"/>
-        <image name="goforward" catalog="system" width="60" height="64"/>
     </resources>
 </document>
